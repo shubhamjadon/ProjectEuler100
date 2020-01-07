@@ -4,5 +4,6 @@
 <ol>
   <li>Multiples of 3 and 5</li>
   <li>Even Fibonacci Numbers</li>
-  <li>Largest Prime Factor</li> 
+  <li>Largest Prime Factor</li>
+  <li>Largest Palindrome Product</li>
 </ol>
