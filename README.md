@@ -6,4 +6,5 @@
   <li>Even Fibonacci Numbers</li>
   <li>Largest Prime Factor</li>
   <li>Largest Palindrome Product</li>
+  <li>Smallest Multiple</li>
 </ol>
