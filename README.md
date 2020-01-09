@@ -7,4 +7,5 @@
   <li>Largest Prime Factor</li>
   <li>Largest Palindrome Product</li>
   <li>Smallest Multiple</li>
+  <li>Sum Square Difference</li>
 </ol>
