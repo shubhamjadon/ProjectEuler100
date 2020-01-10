@@ -8,4 +8,5 @@
   <li>Largest Palindrome Product</li>
   <li>Smallest Multiple</li>
   <li>Sum Square Difference</li>
+  <li>1001st Prime</li>
 </ol>
