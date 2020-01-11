@@ -9,4 +9,5 @@
   <li>Smallest Multiple</li>
   <li>Sum Square Difference</li>
   <li>1001st Prime</li>
+  <li>Largest Product in a Series</li>
 </ol>
