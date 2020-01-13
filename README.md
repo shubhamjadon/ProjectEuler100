@@ -11,4 +11,5 @@
   <li>1001st Prime</li>
   <li>Largest Product in a Series</li>
   <li>Special Pythagorian Triplet</li>
+  <li>Summation of Primes</li>
 </ol>
