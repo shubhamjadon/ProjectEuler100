@@ -12,4 +12,5 @@
   <li>Largest Product in a Series</li>
   <li>Special Pythagorian Triplet</li>
   <li>Summation of Primes</li>
+  <li>Largest Product in a Grid</li>
 </ol>
