@@ -13,4 +13,5 @@
   <li>Special Pythagorian Triplet</li>
   <li>Summation of Primes</li>
   <li>Largest Product in a Grid</li>
+  <li>Highly Divisible Triangular Number</li>
 </ol>
