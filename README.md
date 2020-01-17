@@ -15,4 +15,5 @@
   <li>Largest Product in a Grid</li>
   <li>Highly Divisible Triangular Number</li>
   <li>Large Sum</li>
+  <li>Longest Collatz Sequence</li>
 </ol>
