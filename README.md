@@ -16,4 +16,5 @@
   <li>Highly Divisible Triangular Number</li>
   <li>Large Sum</li>
   <li>Longest Collatz Sequence</li>
+  <li>Lattice Paths</li>
 </ol>
