@@ -17,4 +17,5 @@
   <li>Large Sum</li>
   <li>Longest Collatz Sequence</li>
   <li>Lattice Paths</li>
+  <li>Power Digit Sum</li>
 </ol>
